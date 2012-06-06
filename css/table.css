@@ -1,0 +1,26 @@
+body
+{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 90%;
+}
+
+table
+{border-collapse:collapse;}
+
+th
+{ background:#C7D2FF; }
+
+td, th
+{ padding:5px; }
+
+table
+{ text-align:center; border: 3px solid black;  }
+
+td, th
+{ text-align:center; border: 1px solid black;  }
+
+.headerRow {border: 3px solid black;  }
+
+.leftAlign {text-align: left;}
+
+.inlineForm { display: inline; }
