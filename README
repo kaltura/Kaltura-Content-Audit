@@ -1,0 +1,3 @@
+This page allows customers to view their content in chunks of 500 records. And also download this information as CSV files. 
+
+Note apparently this method will not work when content libraries grow to 10K+ (20 pages). 

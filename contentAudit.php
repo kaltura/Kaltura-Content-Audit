@@ -37,7 +37,7 @@ Man Utd - Content Audit</title>
 </head>
 <body>
 
-<form class="inlineForm" action="manutdLIST.php" method="post">
+<form class="inlineForm" action="contentAudit.php" method="post">
 Partner id: <input type="text" name="partnerId" value="$partnerId" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 Username: <input type="text" name="username" value="$loginId" />
